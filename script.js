@@ -32,6 +32,14 @@ const questions = [
     {text: "HyperLink Protocol Trasnfer",correct: false},
     {text: "HyperLink Text Protocol Trasnfer",correct: false},
     {text: "HyperLink Trasnfer Protocol",correct: false},
+]},
+{
+    question : "What is Css stands for?",
+    answers : [
+    {text: "Cascading Style Sheet",correct: true},
+    {text: "Cascade Style sheets",correct: false},
+    {text: "Cas Style Sheet",correct: false},
+    {text: "Style Casding Sheet",correct: false},
 ]}
 ];
 
